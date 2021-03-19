@@ -1,0 +1,25 @@
+.grid-banner {
+  margin: 5px 35px 5px 0;
+}
+.grid-banner .box {
+  height: 250px;
+  width: 150px;
+  background-color: rgb(105, 105, 105);
+}
+
+.grid-banner .clapper-img{
+  padding-top: 40px;
+}
+
+.grid-banner .clapper-img img{
+  height: 80px;
+  width: 80px;
+}
+
+.grid-banner .box h2{
+  color: rgb(180, 189, 189);
+}
+
+.grid-banner .box:hover{
+  cursor: pointer;
+} 

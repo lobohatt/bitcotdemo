@@ -1,0 +1,31 @@
+.grid-banner-movie {
+  margin: 5px 35px 5px 0;
+}
+.grid-banner-movie .box {
+  height: 250px;
+  width: 150px;
+  background-color: rgb(105, 105, 105);
+}
+
+.grid-banner-movie.clapper-img{
+  height: 250px;
+  width: 150px;
+}
+
+.grid-banner-movie .clapper-img img{
+   height: 250px;
+  width: 150px;
+}
+
+.grid-banner-movie .box h2{
+  color: rgb(180, 189, 189);
+}
+
+.grid-banner-movie .box:hover{
+  cursor: pointer;
+} 
+
+.movies-title{
+  word-wrap: break-word;
+  width: 150px;
+}

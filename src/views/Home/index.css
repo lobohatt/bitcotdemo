@@ -1,0 +1,25 @@
+.home-banner .title{
+  height: 60px;
+  background-color: rgb(129, 128, 128);
+  width: 100%;
+  padding-left: 120px;
+}
+
+.home-banner .title h1{
+  margin: 0;
+  color: white;
+  font-weight:400;
+}
+
+
+.home-banner .home-grid{
+   display: flex;
+  text-align: center;
+  flex-direction: row;
+  margin-top: 40px;
+  padding: 10px 120px;
+}
+
+.home-banner{
+  height: 60vh;
+}

@@ -1,0 +1,21 @@
+.movies-banner .title{
+  height: 60px;
+  background-color: rgb(129, 128, 128);
+  width: 100%;
+  padding-left: 120px;
+}
+
+.movies-banner .title h1{
+  margin: 0;
+  color: white;
+  font-weight:400;
+}
+
+.movies-banner .movgrd{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  padding: 10px 120px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
